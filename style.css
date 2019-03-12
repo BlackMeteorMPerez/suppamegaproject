@@ -1,14 +1,36 @@
 body{
-    background-color:Lightgreen
+    background-color:lightblue
 }
 nav{
     text-transform: uppercase;
     font-family: 'PT Sans Narrow', sans-serif;
     font-style: italic
 }
-header{
-    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/669dbabb-d4c5-4170-bbe6-1fffd7b4bb09/d1dghop-0187fed5-591f-43a8-afae-dfaa510f12b2.png/v1/fill/w_1528,h_523,strp/one_piece_logo_by_zerocustom1989_d1dghop-pre.png)
-    text-align: center;
+body{
+    background-image: url(https://vignette.wikia.nocookie.net/onepiece/images/a/ad/Chapter_156.png/revision/latest?cb=20130121043120);
+    text-align:center;
     height:600px;
-    background-size:cover;
+    background-size:cover
+}
+.nav-link {
+    opacity:0.7;
+    
+    background-color: #eee
+}
+
+.services i{
+    
+    font-size: 30px;
+    
+    padding: 25px 20px;
+    color:#7d0064;
+    
+    background-color:lightblue;
+    width:80px;
+    height: 80px;
+    border-radius: 50%
+}
+.services span{
+    width: 200px;
+    display: inline-block;
 }
