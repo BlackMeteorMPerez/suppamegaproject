@@ -7,10 +7,10 @@ nav{
     font-style: italic
 }
 body{
-    background-image: url(https://vignette.wikia.nocookie.net/onepiece/images/a/ad/Chapter_156.png/revision/latest?cb=20130121043120);
+    background-image: url(https://i.imgur.com/iNdI7jL.jpg);
     text-align:center;
     height:600px;
-    background-size:cover
+    background-size:cover;
 }
 .nav-link {
     opacity:0.7;
@@ -33,4 +33,24 @@ body{
 .services span{
     width: 200px;
     display: inline-block;
+}
+.teams i{
+    font-size:30px;
+    padding: 25px 20px;
+    color:#fff;
+    background-color: purple;
+    width:80px;
+    height:80px;
+    border-radius: 50%;
+    
+}
+.teams span{
+    width: 200px;
+    display: inline-block;
+}
+.contacts .input-group{
+    margin-bottom: 10px;
+}
+.contacts i{
+    padding:17px;
 }
